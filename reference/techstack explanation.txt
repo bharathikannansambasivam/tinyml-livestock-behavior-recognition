@@ -1,0 +1,25 @@
+What is pip?
+
+pip = Python package installer
+
+It downloads libraries.
+
+Example:
+
+pip install tensorflow
+
+What is TensorFlow?
+
+TensorFlow = Machine Learning library
+
+Used to:
+
+train AI models
+
+image classification
+
+object detection
+
+behavior prediction
+
+You use it to build your AI.

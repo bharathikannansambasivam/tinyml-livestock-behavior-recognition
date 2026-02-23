@@ -1,0 +1,66 @@
+Python (TensorFlow + TensorFlow Lite + OpenCV) + Node.js (Express) + React (Tailwind CSS) + Laptop Webcam / CSV (simulation only)
+
+👉 Build a low-cost livestock monitoring system that:
+
+✔ Detects animals using camera
+✔ Recognizes animal behavior
+✔ Runs AI locally (TinyML)
+✔ Shows results on dashboard
+✔ Works without internet/cloud
+
+System shows:
+
+Animal: Cow
+Activity: Grazing
+Status: Safe
+
+
+or
+
+Animal: Cow
+Activity: Moving
+Alert: Near fence
+
+✅ What AI is doing internally
+Webcam → Python model → prediction → Express → React UI
+
+
+
+Clear
+✅ Final Project Stack (confirmed)
+👉
+
+Python (TensorFlow + TFLite + OpenCV) + Node.js (Express) + React (Tailwind) + Laptop Webcam/CSV (simulation)
+
+✅ What your system will do
+
+✔ Detect animal from camera
+✔ Recognize behavior
+✔ Run AI locally (TinyML simulation)
+✔ Send result to backend
+✔ Show dashboard
+
+Example:
+
+Animal: Cow
+Activity: Grazing
+Status: Safe
+
+
+or
+
+Animal: Cow
+Activity: Moving
+Alert: Near fence
+
+✅ Internal Flow (exactly right)
+Webcam
+   ↓
+Python model (TensorFlow/TFLite)
+   ↓
+Express API
+   ↓
+React dashboard
+
+
+100% correct architecture.
