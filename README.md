@@ -40,3 +40,4 @@ Camera → Preprocessing → TinyML CNN Model → Behavior Classification → Al
 - Grazing
 - Fence Proximity
 - No Animal
+# tinyml-livestock-behavior-recognition
