@@ -37,3 +37,8 @@ This software demonstrates how TinyML can be applied to livestock monitoring sys
 AI-assisted tools were used only for language refinement and documentation support during the preparation of this manuscript. The software design, implementation, and experimental setup were carried out by the author.
 
 # References
+# References
+
+Warden, P., & Situnayake, D. (2019). TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers. O'Reilly Media.
+
+LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436–444.
